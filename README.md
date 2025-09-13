@@ -1,8 +1,11 @@
 # Forensic Guard: Evidence Management System Using Blockchain
 
 ## Project Description
-**Forensic Guard** is a blockchain-based evidence management system designed to ensure **data integrity, transparency, and security** in forensic investigations.  
-Traditional systems rely on centralized databases, which are vulnerable to tampering. This project uses **Ethereum blockchain**, **smart contracts**, and **immutable timestamps** to securely store and manage forensic evidence.  
+**Forensic Guard** Secure Evidence System using Block Chain Technology is a blockchain-based solution designed to enhance the management of digital evidence. By leveraging decentralized storage and cryptographic techniques, EPS ensures that evidence is secure, tamper-proof, and verifiable throughout its lifecycle.
+
+The system is built with a user-friendly interface, simplifying adoption and usage across organizations. Its modular architecture allows for scalability without adding complexity, while enhanced security measures automate evidence handling to maintain data integrity.
+
+EPS addresses the challenges of traditional evidence management systems, including risks of tampering, legal uncertainties, and scalability issues. Comprehensive training resources support effective use, and ongoing development focuses on creating a transparent, secure, and efficient environment for digital evidence management. 
 
 Key goals:  
 - Prevent tampering of evidence  
@@ -62,6 +65,8 @@ git clone https://github.com/Madhavan0731/ForensicGuard.git
 cd ForensicGuard 
 ```
 ### 2. Install Python dependencies
+
+Make sure you have **Python 3.7.0** and **pip 24.0** installed. Then run:
 ```bash
 pip install -r requirements.txt
 ```
